@@ -1,2 +1,2 @@
 # Web-tekniikat
-Added some simple files to repository.
+Tänne tallennetaan kaikki opintojakson koodit.
